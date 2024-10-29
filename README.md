@@ -2,6 +2,8 @@
 
 ### [10월 다섯째 주, 2주차] : HTML, CSS, 웹
 
+[24.10.29](https://github.com/100-hours-a-week/siena-til/blob/6665c7de9e189c0e487ae9517954be34119f58b7/October/2024-10-29.md) 커뮤니티 레이아웃 만들기
+
 [24.10.28](https://github.com/100-hours-a-week/siena-til/blob/449d6e25f1b6132f9663b88e5e375b4645f134bb/October/2024-10-28.md) Express 미니퀘스트 및 과제수행
 
 
