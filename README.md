@@ -1,13 +1,18 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 ### [11월 첫째 주, 3주차]: JS 응용
 
+[24.11.06](https://github.com/100-hours-a-week/siena-til/blob/c9df3cfda557bec298262985714a127001d5efeb/November/2024-11-06.md) 딥다이브
+
+[24.11.05](https://github.com/100-hours-a-week/siena-til/blob/c9df3cfda557bec298262985714a127001d5efeb/November/2024-11-05.md) 웹 응용
+
 [24.11.04](https://github.com/100-hours-a-week/siena-til/blob/4031c8a093634f0c21d456aa183a506ba9362008/November/2024-11-04.md) JS응용 복습
 
 [24.11.03](https://github.com/100-hours-a-week/siena-til/blob/4031c8a093634f0c21d456aa183a506ba9362008/November/2024-11-03.md) HTTP 내용정리
 
-[24.11.02](https://github.com/100-hours-a-week/siena-til/blob/4031c8a093634f0c21d456aa183a506ba9362008/November/2024-11-02.md) 커뮤니티 레이아웃
 
 ### [10월 다섯째 주, 2주차] : HTML, CSS, 웹
+
+[24.11.02](https://github.com/100-hours-a-week/siena-til/blob/4031c8a093634f0c21d456aa183a506ba9362008/November/2024-11-02.md) 커뮤니티 레이아웃
 
 [24.11.01](https://github.com/100-hours-a-week/siena-til/blob/2e274985a64ada3fb9c2d9a431636b1cf2954b99/November/2024-11-01.md) JS응용
 
