@@ -1,5 +1,16 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
-### [11월 첫째 주, 3주차]: JS 응용
+
+### [11월 둘째 주, 4주차] 커뮤니티 과제 및 개념 복습
+
+[24.11.11](https://github.com/100-hours-a-week/siena-til/blob/a4f0469ac83d16f459aed8ffbaa594451e226877/November/2024-11-11.md) 웹 응용 복습
+
+[24.11.10](https://github.com/100-hours-a-week/siena-til/blob/a4f0469ac83d16f459aed8ffbaa594451e226877/November/2024-11-10.md) 웹 응용 복습
+
+### [11월 첫째 주, 3주차]: JS 응용, 웹응용
+
+[24.11.08](https://github.com/100-hours-a-week/siena-til/blob/a4f0469ac83d16f459aed8ffbaa594451e226877/November/2024-11-08.md) 리액트
+
+[24.11.07](https://github.com/100-hours-a-week/siena-til/blob/a4f0469ac83d16f459aed8ffbaa594451e226877/November/2024-11-07.md) REST API 명세서 작성
 
 [24.11.06](https://github.com/100-hours-a-week/siena-til/blob/c9df3cfda557bec298262985714a127001d5efeb/November/2024-11-06.md) 딥다이브
 
