@@ -2,6 +2,16 @@
 
 ### [11월 둘째 주, 4주차] 커뮤니티 과제 및 개념 복습
 
+[24.11.16](https://github.com/100-hours-a-week/siena-til/blob/26282308a9d3443f92999fa5204a00548d0da8ad/November/2024-11-16.md) 커뮤니티 바닐라로 완성
+
+[24.11.15](https://github.com/100-hours-a-week/siena-til/blob/26282308a9d3443f92999fa5204a00548d0da8ad/November/2024-11-15.md) AWS, DB 강의
+
+[24.11.14](https://github.com/100-hours-a-week/siena-til/blob/26282308a9d3443f92999fa5204a00548d0da8ad/November/2024-11-14.md) 리액트 강의
+
+[24.11.13](https://github.com/100-hours-a-week/siena-til/blob/26282308a9d3443f92999fa5204a00548d0da8ad/November/2024-11-13.md) 딥다이브-리액트
+
+[24.11.12](https://github.com/100-hours-a-week/siena-til/blob/26282308a9d3443f92999fa5204a00548d0da8ad/November/2024-11-12.md) 팀미팅, 리액트강의
+
 [24.11.11](https://github.com/100-hours-a-week/siena-til/blob/a4f0469ac83d16f459aed8ffbaa594451e226877/November/2024-11-11.md) 웹 응용 복습
 
 [24.11.10](https://github.com/100-hours-a-week/siena-til/blob/a4f0469ac83d16f459aed8ffbaa594451e226877/November/2024-11-10.md) 웹 응용 복습
