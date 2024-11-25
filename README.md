@@ -1,5 +1,23 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
+### [11월 넷째 주, 6주차]
+
+[24.11.25](https://github.com/100-hours-a-week/siena-til/blob/843bfcfae58709b2b3463fb205b9487f7602dd12/November/2024-11-25.md) 커뮤니티 comment 라우트,컨트롤러,모델 작성
+
+[24.11.24](https://github.com/100-hours-a-week/siena-til/blob/843bfcfae58709b2b3463fb205b9487f7602dd12/November/2024-11-24.md) 커뮤니티 post 라우트,컨트롤러, 모델 작성
+
+### [11월 셋째 주, 5주차] DB 강의 및 실습, 커뮤니티 과제, 리눅스 강의
+
+[24.11.22](https://github.com/100-hours-a-week/siena-til/blob/843bfcfae58709b2b3463fb205b9487f7602dd12/November/2024-11-22.md) 리눅스 강의
+
+[24.11.21](https://github.com/100-hours-a-week/siena-til/blob/69e7424a8bff0faee921d485145069e700c19a7f/November/2024-11-21.md) 세션추가, 미들웨어
+
+[24.11.20](https://github.com/100-hours-a-week/siena-til/blob/69e7424a8bff0faee921d485145069e700c19a7f/November/2024-11-20.md) 딥다이브-DB/SQL
+
+[24.11.19](https://github.com/100-hours-a-week/siena-til/blob/69e7424a8bff0faee921d485145069e700c19a7f/November/2024-11-19.md) 백엔드, 클라이언트 분리
+
+[24.11.18](https://github.com/100-hours-a-week/siena-til/blob/69e7424a8bff0faee921d485145069e700c19a7f/November/2024-11-18.md) DB 복습(쿼리 실습)
+
 ### [11월 둘째 주, 4주차] 커뮤니티 과제 및 개념 복습
 
 [24.11.16](https://github.com/100-hours-a-week/siena-til/blob/26282308a9d3443f92999fa5204a00548d0da8ad/November/2024-11-16.md) 커뮤니티 바닐라로 완성
