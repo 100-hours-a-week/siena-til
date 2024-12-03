@@ -1,6 +1,22 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
+### [12월 첫째 주, 7주차]
+
+[24.12.03](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/December/2024-12-03.md) 네트워크 강의 복습
+
+[24.12.02](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/December/2024-12-02.md) 네트워크 강의 복습
+
 ### [11월 넷째 주, 6주차]
+
+[24.11.30](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/November/2024-11-30.md) 1주차 과제 제출
+
+[24.11.29](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/November/2024-11-29.md) 네트워크, KVM, 도커 강의
+
+[24.11.28](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/November/2024-11-28.md) 커뮤니티 사진 업로드 API 코드 작성
+
+[24.11.27](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/November/2024-11-27.md) 리눅스 딥다이브
+
+[24.11.26](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/November/2024-11-26.md) 커뮤니티 like 관련 코드 작성
 
 [24.11.25](https://github.com/100-hours-a-week/siena-til/blob/843bfcfae58709b2b3463fb205b9487f7602dd12/November/2024-11-25.md) 커뮤니티 comment 라우트,컨트롤러,모델 작성
 
