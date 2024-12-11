@@ -1,12 +1,28 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
+### [12월 둘째 주, 8주차]
+
+[24.12.11](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-11.md) 도커 딥다이브
+
+[24.12.10](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-10.md) 코테스터디 2주차
+
+[24.12.09](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-09.md) Docker 강의
+
 ### [12월 첫째 주, 7주차]
 
-[24.12.03](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/December/2024-12-03.md) 네트워크 강의 복습
+[24.12.08](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-08.md) 커뮤니티 반려사항 수정
+
+[24.12.06](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-06.md) 1차 네트워킹데이
+
+[24.12.05](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-05.md) Docker 실습
+
+[24.12.04](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-04.md) 네트워크 딥다이브
+
+[24.12.03](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/December/2024-12-03.md) 네트워크 강의 복습, 팀스터디 첫날
 
 [24.12.02](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/December/2024-12-02.md) 네트워크 강의 복습
 
-### [11월 넷째 주, 6주차]
+### [11월 넷째 주, 6주차] 네트워크 강의, 커뮤니티 마무리
 
 [24.11.30](https://github.com/100-hours-a-week/siena-til/blob/0811f0d3caf11d32a5c45a83bcda5112718ac5bb/November/2024-11-30.md) 1주차 과제 제출
 
