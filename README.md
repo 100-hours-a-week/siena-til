@@ -1,6 +1,18 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
-### [12월 둘째 주, 8주차]
+### [12월 셋째 주, 9주차]
+
+[24.12.18](https://github.com/100-hours-a-week/siena-til/blob/ecafc1c21f824c13454b9c4df60e0d74ebf5e2f4/December/2024-12-18.md) QA 딥다이브
+
+[24.12.17](https://github.com/100-hours-a-week/siena-til/blob/ecafc1c21f824c13454b9c4df60e0d74ebf5e2f4/December/2024-12-17.md) 커뮤니티 es6 리팩토링, 코테스터디 3주차
+
+[24.12.16](https://github.com/100-hours-a-week/siena-til/blob/ecafc1c21f824c13454b9c4df60e0d74ebf5e2f4/December/2024-12-16.md) ec2로 도커 실습
+
+### [12월 둘째 주, 8주차] 도커 강의(2), 커뮤니티 1주차 과제 승인
+
+[24.12.13](https://github.com/100-hours-a-week/siena-til/blob/ecafc1c21f824c13454b9c4df60e0d74ebf5e2f4/December/2024-12-13.md) 도커, 쿠버네티스 강의 및 실습
+
+[24.12.12](https://github.com/100-hours-a-week/siena-til/blob/ecafc1c21f824c13454b9c4df60e0d74ebf5e2f4/December/2024-12-12.md) 커뮤니티 2차 반려사항 수정 마무리
 
 [24.12.11](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-11.md) 도커 딥다이브
 
@@ -8,7 +20,7 @@
 
 [24.12.09](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-09.md) Docker 강의
 
-### [12월 첫째 주, 7주차]
+### [12월 첫째 주, 7주차] 네트워크 및 도커
 
 [24.12.08](https://github.com/100-hours-a-week/siena-til/blob/caaffadd29f37d7296f915d8b75b80cc7272582b/December/2024-12-08.md) 커뮤니티 반려사항 수정
 
