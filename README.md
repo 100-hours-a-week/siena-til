@@ -1,6 +1,20 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
-### [12월 셋째 주, 9주차]
+### [12월 넷째 주, 10주차]
+
+[24.12.31](https://github.com/100-hours-a-week/siena-til/blob/78cdcb2f31f9b2ffe205e29297260af2fa4355c1/December/2024-12-31.md) 커뮤니티 이슈 close
+
+[24.12.28](https://github.com/100-hours-a-week/siena-til/blob/78cdcb2f31f9b2ffe205e29297260af2fa4355c1/December/2024-12-28.md) 커뮤니티 이슈 close
+
+[24.12.25](https://github.com/100-hours-a-week/siena-til/blob/78cdcb2f31f9b2ffe205e29297260af2fa4355c1/December/2024-12-25.md) 커뮤니티 이슈 close
+
+[24.12.23]() 도커 컴포즈, 쿠버네티스 강의 실습 복습 (정리중)
+
+### [12월 셋째 주, 9주차] 도커 강의(3), 커뮤니티 2주차 과제 제출
+
+[24.12.20]() 도커 컴포즈, 쿠버네티스 강의 (정리중)
+
+[24.12.19](https://github.com/100-hours-a-week/siena-til/blob/78cdcb2f31f9b2ffe205e29297260af2fa4355c1/December/2024-12-19.md) 커뮤니티 ERD 그리기
 
 [24.12.18](https://github.com/100-hours-a-week/siena-til/blob/ecafc1c21f824c13454b9c4df60e0d74ebf5e2f4/December/2024-12-18.md) QA 딥다이브
 
