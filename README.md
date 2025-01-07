@@ -1,6 +1,19 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
-### [12월 넷째 주, 10주차]
+
+### [1월 첫째 주, 11주차] 방학기간
+
+[24.01.07]() 커뮤니티 DB 연결 이어서, 코테 스터디
+
+[24.01.06](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-06.md) 커뮤니티 DB 연결 이어서
+
+[24.01.04](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-04.md) 커뮤니티 2차 이슈 수정, DB 연결
+
+[24.01.03]() 도커 실습 복습 (TIL 정리중)
+
+[24.01.02](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-02.md) DB 개념 복습
+
+### [12월 넷째 주, 10주차] 방학기간
 
 [24.12.31](https://github.com/100-hours-a-week/siena-til/blob/78cdcb2f31f9b2ffe205e29297260af2fa4355c1/December/2024-12-31.md) 커뮤니티 이슈 close
 
@@ -8,11 +21,11 @@
 
 [24.12.25](https://github.com/100-hours-a-week/siena-til/blob/78cdcb2f31f9b2ffe205e29297260af2fa4355c1/December/2024-12-25.md) 커뮤니티 이슈 close
 
-[24.12.23]() 도커 컴포즈, 쿠버네티스 강의 실습 복습 (정리중)
+[24.12.23](https://github.com/100-hours-a-week/siena-til/blob/840df265a87266938e5000c750194554ebdf6afd/December/2024-12-23.md) 도커 컴포즈, 쿠버네티스 강의 실습 복습
 
 ### [12월 셋째 주, 9주차] 도커 강의(3), 커뮤니티 2주차 과제 제출
 
-[24.12.20]() 도커 컴포즈, 쿠버네티스 강의 (정리중)
+[24.12.20](https://github.com/100-hours-a-week/siena-til/blob/840df265a87266938e5000c750194554ebdf6afd/December/2024-12-20.md) 도커 컴포즈, 쿠버네티스 강의
 
 [24.12.19](https://github.com/100-hours-a-week/siena-til/blob/78cdcb2f31f9b2ffe205e29297260af2fa4355c1/December/2024-12-19.md) 커뮤니티 ERD 그리기
 
