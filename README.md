@@ -1,9 +1,16 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
+### [1월 둘째 주, 12주차] 쿠버네티스
+
+[24.01.10]() 쿠버네티스 강의
+
+[24.01.09](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-09.md) 쿠버네티스 사전실습, DB연결 이어서
+
+[24.01.08](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-08.md) Cors, HTTP 보안헤더 공부, DB연결 이어서
 
 ### [1월 첫째 주, 11주차] 방학기간
 
-[24.01.07]() 커뮤니티 DB 연결 이어서, 코테 스터디
+[24.01.07](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-07.md) 커뮤니티 DB 연결 이어서, 코테 스터디
 
 [24.01.06](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-06.md) 커뮤니티 DB 연결 이어서
 
