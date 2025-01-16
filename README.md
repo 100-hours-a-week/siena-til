@@ -1,24 +1,34 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
-### [1월 둘째 주, 12주차] 쿠버네티스
+### [1월 셋째 주, 13주차] 쿠버네티스, 커뮤니티 CSS 변경
 
-[24.01.10]() 쿠버네티스 강의
+[25.01.16](https://github.com/100-hours-a-week/siena-til/blob/e4da140997b147b65b955bb4b47807af1c512bb2/January/2025-01-16.md) 커뮤니티 CSS 마무리
 
-[24.01.09](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-09.md) 쿠버네티스 사전실습, DB연결 이어서
+[25.01.15](https://github.com/100-hours-a-week/siena-til/blob/e4da140997b147b65b955bb4b47807af1c512bb2/January/2025-01-15.md) 딥다이브 - DevOps
 
-[24.01.08](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-08.md) Cors, HTTP 보안헤더 공부, DB연결 이어서
+### [1월 둘째 주, 12주차] 쿠버네티스, 커뮤니티 DB 연결
+
+[25.01.14](https://github.com/100-hours-a-week/siena-til/blob/e4da140997b147b65b955bb4b47807af1c512bb2/January/2025-01-14.md) 커뮤니티 CSS 변경, 코테스터디
+
+[25.01.13](https://github.com/100-hours-a-week/siena-til/blob/e4da140997b147b65b955bb4b47807af1c512bb2/January/2025-01-13.md) 커뮤니티 CSS 변경
+
+[25.01.12](https://github.com/100-hours-a-week/siena-til/blob/e4da140997b147b65b955bb4b47807af1c512bb2/January/2025-01-12.md) 쿠버네티스 강의 정리 및 실습 복습
+
+[25.01.10](https://github.com/100-hours-a-week/siena-til/blob/e4da140997b147b65b955bb4b47807af1c512bb2/January/2025-01-10.md) 쿠버네티스 강의
+
+[25.01.09](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-09.md) 쿠버네티스 사전실습, DB연결 이어서
+
+[25.01.08](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-08.md) Cors, HTTP 보안헤더 공부, DB연결 이어서
 
 ### [1월 첫째 주, 11주차] 방학기간
 
-[24.01.07](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-07.md) 커뮤니티 DB 연결 이어서, 코테 스터디
+[25.01.07](https://github.com/100-hours-a-week/siena-til/blob/4eb67fa2cf23775bdf4c5efc4045154fcb347b39/January/2025-01-07.md) 커뮤니티 DB 연결 이어서, 코테 스터디
 
-[24.01.06](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-06.md) 커뮤니티 DB 연결 이어서
+[25.01.06](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-06.md) 커뮤니티 DB 연결 이어서
 
-[24.01.04](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-04.md) 커뮤니티 2차 이슈 수정, DB 연결
+[25.01.04](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-04.md) 커뮤니티 2차 이슈 수정, DB 연결
 
-[24.01.03]() 도커 실습 복습 (TIL 정리중)
-
-[24.01.02](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-02.md) DB 개념 복습
+[25.01.02](https://github.com/100-hours-a-week/siena-til/blob/3fff7d880002c72c2d954a7e95bbd7241df462d1/January/2025-01-02.md) DB 개념 복습
 
 ### [12월 넷째 주, 10주차] 방학기간
 
