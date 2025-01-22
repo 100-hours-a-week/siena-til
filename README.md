@@ -1,6 +1,18 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
+### [1월 넷째 주, 14주차]
+
+[25.01.22](https://github.com/100-hours-a-week/siena-til/blob/e2110f1066755c89994713c3d72fd3931abb006d/January/2025-01-22.md) 딥다이브 - 쿠버네티스
+
+[25.01.21](https://github.com/100-hours-a-week/siena-til/blob/e2110f1066755c89994713c3d72fd3931abb006d/January/2025-01-21.md) 쿠버네티스 강의(1/17) 복습, 코테스터디 - 시간복잡도
+
+[25.01.20](https://github.com/100-hours-a-week/siena-til/blob/e2110f1066755c89994713c3d72fd3931abb006d/January/2025-01-20.md) 쿠버네티스 강의(1/17) 복습
+
 ### [1월 셋째 주, 13주차] 쿠버네티스, 커뮤니티 CSS 변경
+
+[25.01.19](https://github.com/100-hours-a-week/siena-til/blob/e2110f1066755c89994713c3d72fd3931abb006d/January/2025-01-19.md) 4주차 과제 제출
+
+[25.01.17](https://github.com/100-hours-a-week/siena-til/blob/e2110f1066755c89994713c3d72fd3931abb006d/January/2025-01-17.md) 쿠버네티스 storage, Node 및 Pod 관리
 
 [25.01.16](https://github.com/100-hours-a-week/siena-til/blob/e4da140997b147b65b955bb4b47807af1c512bb2/January/2025-01-16.md) 커뮤니티 CSS 마무리
 
