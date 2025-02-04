@@ -1,6 +1,30 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
-### [1월 넷째 주, 14주차]
+### [2월 첫째 주, 16주차]
+
+[25.02.04](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/February/2025-02-04.md) 6주차 과제(nginx 설치 및 배포), 코테스터디
+
+[25.02.03](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/February/2025-02-03.md) 쉘 스크립트 추가 수정
+
+### [1월 다섯째 주, 15주차] 5주차 과제 제출 및 6주차 과제 시작
+
+[25.02.02](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/February/2025-02-02.md) 6주차 과제 사전 공부
+
+[25,01.31](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/January/2025-01-31.md) innerHTML 이슈 수정
+
+[25.01.29](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/January/2025-01-29.md) 5주차 과제(서버 재시작 shell script 작성하기)
+
+[25.01.28](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/January/2025-01-28.md) 5주차 과제(express ec2 + db ec2)
+
+[25.01.27](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/January/2025-01-27.md) 5주차 과제 사전 공부
+
+### [1월 넷째 주, 14주차] 쿠버네티스 강의 복습 및 컴퓨터개론
+
+[25.01.25](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/January/2025-01-25.md) 쿠버네티스 강의(1/17) 복습
+
+[25.01.24](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/January/2025-01-24.md) 2차 네트워킹 행사
+
+[25.01.23](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/January/2025-01-23.md) 컴퓨터개론
 
 [25.01.22](https://github.com/100-hours-a-week/siena-til/blob/e2110f1066755c89994713c3d72fd3931abb006d/January/2025-01-22.md) 딥다이브 - 쿠버네티스
 
