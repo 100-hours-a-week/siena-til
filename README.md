@@ -1,6 +1,30 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
-### [2월 첫째 주, 16주차]
+### [2월 셋째 주, 18주차] 3차 팀 프로젝트 시작, 서비스 기획
+
+[25.02.18](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-18.md)
+
+[25.02.17](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-17.md)
+
+### [2월 둘째 주, 17주차] 2차그룹 회고, 서비스 설계 수업
+
+[25.02.14]https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-14.md) 서비스 설계 수업
+
+[25.02.12](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-12.md) 그룹 회고 자료 만들기
+
+[25.02.11](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-11.md) CDN 오류 해결
+
+[25.02.10](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-10.md) 6주차 과제-2
+
+### [2월 첫째 주, 16주차] 컴퓨터개론 및 네트워크
+
+[25.02.09](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-08.md) 6주차 과제-2
+
+[25.02.07](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-07.md) 컴퓨터 개론 및 네트워크 강의
+
+[25.02.06](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-06.md) 6주차 과제-1
+
+[25.02.05](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-05.md) 딥다이브 - 컴퓨터 개론
 
 [25.02.04](https://github.com/100-hours-a-week/siena-til/blob/edd2b8cd9e5d759559f2d9e64e1ebc5e8d0cef27/February/2025-02-04.md) 6주차 과제(nginx 설치 및 배포), 코테스터디
 
