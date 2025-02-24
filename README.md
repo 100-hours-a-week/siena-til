@@ -1,14 +1,26 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
-### [2월 셋째 주, 18주차] 3차 팀 프로젝트 시작, 서비스 기획
+### [2월 넷째 주, 19주차] 서비스 기획 2주차
 
-[25.02.18](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-18.md)
+[25.02.24](https://github.com/100-hours-a-week/siena-til/blob/18c1dfcee27c9e703662fd5532df488f3744257e/February/2025-02-24.md) 서비스 기획 6일차 - ERD 그리기, 부가 기능 관련 피드백
 
-[25.02.17](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-17.md)
+### [2월 셋째 주, 18주차] 3차 팀 프로젝트 시작, 서비스 기획 1주차
+
+[25.02.22](https://github.com/100-hours-a-week/siena-til/blob/18c1dfcee27c9e703662fd5532df488f3744257e/February/2025-02-22.md) 스프링 핵심 원리와 이해
+
+[25.02.21](https://github.com/100-hours-a-week/siena-til/blob/18c1dfcee27c9e703662fd5532df488f3744257e/February/2025-02-21.md) 서비스 기획 5일차 - 기능 정의서 작성, 와이어프레임 2차
+
+[25.02.20](https://github.com/100-hours-a-week/siena-til/blob/18c1dfcee27c9e703662fd5532df488f3744257e/February/2025-02-20.md) 서비스 기획 4일차 - 기능 리스트, 기능 우선 순위 작성, 와이어프레임 1차
+
+[25.02.19](https://github.com/100-hours-a-week/siena-til/blob/18c1dfcee27c9e703662fd5532df488f3744257e/February/2025-02-19.md) 서비스 기획 3일차 - 서비스 기획안 발표(1차)
+
+[25.02.18](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-18.md) 서비스 기획 2일차 - 아이디어 구체화, 페르소나 설정 등
+
+[25.02.17](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-17.md) 서비스 기획 1일차 - 자료조사, 아이디어 공유, 서비스 문제 정의서 작성
 
 ### [2월 둘째 주, 17주차] 2차그룹 회고, 서비스 설계 수업
 
-[25.02.14]https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-14.md) 서비스 설계 수업
+[25.02.14](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-14.md) 서비스 설계 수업
 
 [25.02.12](https://github.com/100-hours-a-week/siena-til/blob/e82ee96cfa82fc8103761a96516a4a52a60101bf/February/2025-02-12.md) 그룹 회고 자료 만들기
 
