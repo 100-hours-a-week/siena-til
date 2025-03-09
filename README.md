@@ -1,6 +1,20 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
+### 🍊 [3월 첫째 주, 20주차] 해커톤
+
+[25.03.09](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/March/2025-03-09.md) 해커톤 정리
+
+[25.03.05](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/March/2025-03-05.md) 아이디어톤, 팀빌딩, 주제 구체화
+
+[25.03.04](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/March/2025-03-04.md) 해커톤 특강, 개인 기획 멘토링
+
 ### [2월 넷째 주, 19주차] 서비스 기획 2주차
+
+[25.02.27](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/February/2025-02-27.md) 기능정의서 작성, 공통 사항 정리
+
+[25.02.26]https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/February/2025-02-26.md) 화면설계서 작성, 스프링 핵심원리 섹션3
+
+[25.02.25](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/February/2025-02-25.md) 기획 피드백(feat.보이드), 화면설계서 작성, 코테스터디
 
 [25.02.24](https://github.com/100-hours-a-week/siena-til/blob/18c1dfcee27c9e703662fd5532df488f3744257e/February/2025-02-24.md) 서비스 기획 6일차 - ERD 그리기, 부가 기능 관련 피드백
 
