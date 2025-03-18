@@ -1,5 +1,25 @@
 ## ✏️오늘 내가 배운 것들(Today I Learned)
 
+### 🍊 [3월 셋째 주, 22주차] 럭킷 2주차
+
+[25.03.18](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-18.md) 백엔드 배포
+
+[25.03.17](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-17.md) yml 파일수정
+
+### 🍊 [3월 둘째 주, 21주차] 럭킷 1주차
+
+[25.03.15](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-15.md) cloudfront 연동
+
+[25.03.14](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-14.md) 프론트엔드 배포 (S3)
+
+[25.03.13](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-13.md) Github Actions yml 파일 작성
+
+[25.03.12](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-12.md) 서버 아키텍처 그리기
+
+[25.03.11](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-11.md) erd, api 검토받기
+
+[25.03.10](https://github.com/100-hours-a-week/siena-til/blob/820d1ca8f5139f921d61a9bc038a0598cca28502/March/2025-03-10.md) 3차 팀프로젝트 리마인드
+
 ### 🍊 [3월 첫째 주, 20주차] 해커톤
 
 [25.03.09](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/March/2025-03-09.md) 해커톤 정리
@@ -12,7 +32,7 @@
 
 [25.02.27](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/February/2025-02-27.md) 기능정의서 작성, 공통 사항 정리
 
-[25.02.26]https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/February/2025-02-26.md) 화면설계서 작성, 스프링 핵심원리 섹션3
+[25.02.26](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/February/2025-02-26.md) 화면설계서 작성, 스프링 핵심원리 섹션3
 
 [25.02.25](https://github.com/100-hours-a-week/siena-til/blob/af0bf56869e89ac92f7275ed7ba269ec0d3e7613/February/2025-02-25.md) 기획 피드백(feat.보이드), 화면설계서 작성, 코테스터디
 
